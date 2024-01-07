@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_primary">PrimaryActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="link1"><a href="https://www.nhlbi.nih.gov/heart-truth/maintain-a-healthy-weight">Maintain a Healthy Weight</a></string>
+    <string name="link2"><a href="https://www.nhlbi.nih.gov/heart-truth/increase-physical-activity">Increase Physical Activity</a></string>
+    <string name="link3"><a href="https://www.nhlbi.nih.gov/heart-truth/eat-a-heart-healthy-diet">Eat a Heart-Healthy Diet</a></string>
+    <string name="link4"><a href="https://www.nhlbi.nih.gov/heart-truth/know-and-control-your-heart-health-numbers">Know and Control Your Heart Health Numbers</a></string>
+</resources>

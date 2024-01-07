@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_items" >
+        <item>Gain muscles</item>
+        <item>Loss weight</item>
+        <item>Weight maintenance</item>
+        <item>Gain weight</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_activities" >
+        <item>Basal Metabolic Rate</item>
+        <item>Sedentary</item>
+        <item>Lightly active</item>
+        <item>Moderately active</item>
+        <item>Active</item>
+        <item>Very active</item>
+    </string-array>
+</resources>
